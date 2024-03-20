@@ -8,7 +8,7 @@ PygmentsStyle = "monokai"
 enableGitInfo = false
 
 [params]
-address = "Coimbatore, India"
+address = "Banglore, India"
 favicon = "/favicon.ico"
 firstName = "Harshit "
 lastName = "Agarwal"
